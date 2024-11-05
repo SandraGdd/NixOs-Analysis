@@ -4,6 +4,7 @@ Nix is the package manager that can be used across different environments, while
 
 ## Project Brief
 Numtide (a company that develops tools and services around Nix) wants to analyze commit patterns in the NixOS nixpkgs repository, specifically to:
+Link to respository: https://github.com/NixOS/nixpkgs
 
 Track Company Contributions: Identify the volume and frequency of commits made by companies and assess their company size.
 Observe Trends: Examine how these contributions have evolved over the last three years.
