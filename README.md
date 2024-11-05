@@ -3,7 +3,7 @@ Nix is an open-source package manager that employs a functional, declarative app
 Nix is the package manager that can be used across different environments, while NixOS is a Linux distribution that fully leverages the Nix package manager for managing the entire system configuration.)
 
 ## Project Brief
-Numtide (a compoany that develope tools and services around Nix) wants to analyze commit patterns in the NixOS nixpkgs repository, specifically to:
+Numtide (a company that develops tools and services around Nix) wants to analyze commit patterns in the NixOS nixpkgs repository, specifically to:
 
 Track Company Contributions: Identify the volume and frequency of commits made by companies and assess their company size.
 Observe Trends: Examine how these contributions have evolved over the last three years.
