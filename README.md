@@ -1,9 +1,9 @@
 ## Nix Overview
 Nix is an open-source package manager that employs a functional, declarative approach to software management. Nix provides precise control over software versions and dependencies, ensuring that configurations are reproducible and isolated from one another. This approach makes NixOS especially popular with developers and companies who prioritize stability, consistency, and easy rollbacks in complex or production environments.
-Nix is the package manager that can be used across different environments, while NixOS is a Linux distribution that fully leverages the Nix package manager for managing the entire system configuration.)
+(Nix is the package manager that can be used across different environments, while NixOS is a Linux distribution that fully leverages the Nix package manager for managing the entire system configuration.) 
 
 ## Project Brief
-Numtide (a company that develops tools and services around Nix) wants to analyze commit patterns in the NixOS nixpkgs repository, specifically to:
+As Nix is still relatively unknown, Numtide—a company dedicated to developing tools and services for Nix—aims to analyze commit patterns in the NixOS nixpkgs repository. The goal is to assess whether companies are showing interest in Nix and if there is growth in that interest, helping Numtide determine if further investment in Nix is worthwhile.
 Link to respository: https://github.com/NixOS/nixpkgs
 
 Track Company Contributions: Identify the volume and frequency of commits made by companies and assess their company size.
@@ -18,4 +18,4 @@ Predict Future Trends: Based on historical data, forecast how corporate involvem
 - Create Visualizations: Generate charts to illustrate contribution trends over time.
 (- Predict Future Trends: data patterns to estimate future company engagement.)
 
-This analysis will provide insights into corporate involvement in NixOS and inform future community and corporate engagement strategies.
+
