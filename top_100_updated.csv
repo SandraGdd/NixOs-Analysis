@@ -1,0 +1,102 @@
+Unnamed: 0,Contributor,count,Category,Location,Companysize
+0,,101767,Other,Unknown,0
+1,lip6,6833,Institution,"Paris, France",400
+2,European Commission,2770,Institution,"Brussels, Belgium",0
+3,sapcc,2761,Company,"Walldorf, Germany",1000–5000
+4,NTNU,2350,Institution,"Trondheim, Norway",0
+5,UC Berkeley,2015,Institution,"California, USA",0
+6,UESTC,1884,Institution,China,0
+7,Inria,1699,Institution,France,0
+8,Global-e,976,Company,Switzerland,1001
+9,mathrills,801,Other,Unknown,0
+10,Sammilani Mahavidyalaya,731,Institution,"Calcutta, India",0
+11,cz.nic labs CZ-NIC,712,Other,Unknown,0
+12,wirenboard,679,Company,Kazakhstan,51–200
+13,ifm electronics,668,Company,Germany,5001-10000
+14,flyingcircusio,610,Other,Unknown,0
+15,Tweag,606,Company,France,51-200
+16,Qumulo,545,Company,"Seattle, USA",201-500
+17,edgelesssys,523,Other,Germany,1-50
+18,Programvareverkstedet,487,Institution,Norway,0
+19,deepin community,457,Institution,China,0
+20,ogion.cz,430,Company,Czech Republic,30
+21,Silverpond,394,Company,"Melbourne, Australia",11-50
+22,Karesz-Foundation,390,Other,"Berlin, Germany",0
+23,"Independent + Aalto U, former HSE & Skoltech",366,Institution,Finland,0
+24,Student Epitech 2028,361,Institution,"Paris, France",0
+25,hercules-ci,343,Company,Netherlands,0-10
+26,Freelancer,334,Other,Unknown,0
+27,UFOP,297,Institution,"Berlin, Germany",0
+28,Debian ⊕ NixOS,283,Institution,Global,0
+29,numtide,280,Company,Switzerland,2-10
+30,Independent Contributor,262,Other,Unknown,0
+31,canonical,261,Company,"London, United Kingdom",1001- 5000
+32,SkylineTechnologies,259,Company,"Wisconsin, USA",2-10
+33,NixOS,210,Institution,Global,0
+34,PyroNet,199,Company,Poland,30
+35,reMarkable,194,Company,"Oslo, Norway",201-500
+36,Emotion Labs,190,Company,"Moscow, Russia",30
+37,FlyingCircusIO,189,Company,"Halle, Germany",30
+38,Chalmers University of Technology,183,Institution,"Gothenburg, Sweden",0
+39,WEHI,178,Company,Australia,300
+40,nBits Labs | ex-Coinhako,155,Other,Unknown,0
+41,SatoshiLabs,153,Company,Czech Republic,125
+42,MESR,151,Institution,Luxembourg,0
+43,LAAS-CNRS,148,Institution,"Toulouse, France",0
+44,siemens,144,Company,Germany,100001
+45,Infrastructure DBCDK,131,Company,"Copenhagen, Denmark",75
+46,ObsidianSystems,122,Company,South Africa,1-50
+47,mnx-solutions,122,Company,"Michigan, USA",11-50
+48,Freelance,113,Other,Unknown,0
+49,aws,106,Company,"Seattle, USA",10001
+50,Machine Intelligence Research Institute,104,Institution,"Berkeley, California, USA",15
+51,Strid Tech AB,101,Company,"Stockholm, Sweden",5
+52,Student,101,Other,Unknown,0
+53,opallabs,99,Company,USA,1-50
+54,TestLab360,93,Company,"Newstead, Queensland, Australia",30
+55,curried-software,90,Other,Unknown,0
+56,/dev/null,82,Other,,0
+57,PhD Student at Télécom Paris // Self employed consultant,81,Other,Unknown,0
+58,Universidade Tecnológica Federal do Paraná,80,Institution,"Curitiba, Brazil",0
+59,proxmox,76,Company,Austria,1-50
+60,"Self-employed, Apache Software Foundation",76,Other,Unknown,0
+61,Student caltech,74,Other,Unknown,0
+62,finsit  Wolters Kluwer,74,Other,Unknown,0
+63,My own consultancy,72,Other,Unknown,0
+64,up² | upsquared,71,Other,Unknown,0
+65,cyberus-technology,71,Company,Germany,1-50
+66,cachix,68,Company,Slovenia,1-10
+67,Beihang University,68,Institution,"Beijing, China",0
+68,mlabs-haskell,67,Company,United Kingdom,1-50
+69,"Viasat, Inc.",66,Company,"Carlsbad, California, USA",0
+70,TU Graz,64,Institution,Austria,1000+
+71,Buzzvil,61,Company,"Seoul, South Korea",75
+72,Nix.How,60,Other,,0
+73,Friedrich Schiller University Jena,58,Institution,Germany,1000+
+74,Edgeless Systems,56,Company,"Bochum, Germany",30
+75,ONERA,56,Institution,"Palaiseau, France",0
+76,CEA,54,Institution,"Paris, France",0
+77,helsinki-systems,54,Company,Finland,1-50
+78,Yale University,54,Institution,"New Haven, Connecticut, USA",0
+79,red6 enterprise software,54,Company,Germany,50-200
+80,tiko Energy Solutions AG,54,Company,"Zurich, Switzerland",75
+81,dyte-io,53,Company,India,1-50
+82,O.S. Systems,51,Company,Brazil,30
+83,kiosc-france,45,Other,Unknown,0
+84,NixOS tweag,45,Other,Unknown,0
+85,Microsoft,45,Company,"Redmond, Washington, USA",0
+86,DB Netz AG,44,Company,"Frankfurt, Germany",0
+87,simplerisk,44,Company,USA,1-50
+88,Tweag,43,Company,"Paris, France",51-200
+89,Red Hat,43,Company,"Raleigh, North Carolina, USA",0
+90,Self-Employed Consultant,39,Other,Unknown,0
+91,Esevo Tech,37,Company,Unknown,0
+92,AkukinKensetsu,37,Other,Japan,0
+93,MercuryTechnologies,36,Company,USA,50-200
+94,Silverfin,35,Company,"Ghent, Belgium",150
+95,upsert-oy,35,Company,Finland,1-50
+96,shopware,35,Company,Germany,50-200
+97,replit,33,Company,USA,50-200
+98,Tokyo University of Agriculture and Technology,32,Institution,"Fuchū, Tokyo, Japan",0
+99,canary-technologies-corp,32,Company,USA,50-200
+100,[TBD],31,Other,Unknown,0
