@@ -1,0 +1,51 @@
+,Unnamed: 0.1,Unnamed: 0,Contributor,count,Category,Location,Numb_empl,Companysize
+0,1,3,sapcc,2761,Company,"Walldorf, Germany",1001,large
+1,2,8,Global-e,976,Company,"Petach Tikwa, Isreal",501,medium
+2,3,12,wirenboard,679,Company,"Moskau, Russland",51,small
+3,4,13,ifm electronics,668,Company,"Essen, Germany",5001,large
+4,5,15,Tweag,606,Company,"Paris, France",51,small
+5,6,16,Qumulo,545,Company,"Seattle, USA",201,medium
+6,7,20,ogion.cz,430,Company,"Brno, Czech Republic",30,small
+7,8,21,Silverpond,394,Company,"Melbourne, Australia",11,small
+8,9,25,hercules-ci,343,Company,"Amsterdam, Netherlands",1,small
+9,10,29,numtide,280,Company,"Zurich, Switzerland",2,small
+10,11,31,canonical,261,Company,"London, United Kingdom",1001,large
+11,12,32,SkylineTechnologies,259,Company,"Wisconsin, USA",2,small
+12,13,34,PyroNet,199,Company,"Kraków, Poland",1,small
+13,14,35,reMarkable,194,Company,"Oslo, Norway",201,medium
+14,15,36,Emotion Labs,190,Company,"Moscow, Russia",30,small
+15,16,37,FlyingCircusIO,189,Company,"Halle, Germany",30,small
+16,17,39,WEHI,178,Company,"Melbourne, Australia",1001,large
+17,18,41,SatoshiLabs,153,Company,"Prague, Czech Republic",101,medium
+18,19,44,siemens,144,Company,"Munich, Germany",10001,large
+19,20,45,Infrastructure DBCDK,131,Company,"Copenhagen, Denmark",5001,large
+20,21,46,ObsidianSystems,122,Company,"Johannesburg, South Africa",51,small
+21,22,47,mnx-solutions,122,Company,"Michigan, USA",11,small
+22,23,49,aws,106,Company,"Seattle, USA",10001,large
+23,24,51,Strid Tech AB,101,Company,"Stockholm, Sweden",5,small
+24,25,53,opallabs,99,Company,"Portland, Oregon, USA",11,small
+25,26,54,TestLab360,93,Company,"Newstead, Queensland, Australia",2,small
+26,27,59,proxmox,76,Company,"Vienna, Austria",11,small
+27,28,65,cyberus-technology,71,Company,"Munich, Germany",11,small
+28,29,66,cachix,68,Company,"Bratislava, Slovakia",2,small
+29,30,68,mlabs-haskell,67,Company,United Kingdom,51,small
+30,31,69,"Viasat, Inc.",66,Company,"Carlsbad, California, USA",5001,large
+31,32,71,Buzzvil,61,Company,"Seoul, South Korea",51,small
+32,33,74,Edgeless Systems,56,Company,"Bochum, Germany",11,small
+33,34,77,helsinki-systems,54,Company,"Berlin, Deutschland",11,small
+34,35,79,red6 enterprise software,54,Company,"Munich, Germany",51,small
+35,36,80,tiko Energy Solutions AG,54,Company,"Zurich, Switzerland",51,small
+36,37,81,dyte-io,53,Company,"Bengaluru, India",10,small
+37,38,82,O.S. Systems,51,Company,"Florianópolis, Brazil",11,small
+38,39,85,Microsoft,45,Company,"Redmond, Washington, USA",10001,large
+39,40,86,DB Netz AG,44,Company,"Frankfurt, Germany",10001,large
+40,41,87,simplerisk,44,Company,"Austin, Texas, USA",2,small
+41,42,88,Tweag,43,Company,"Paris, France",51,small
+42,43,89,Red Hat,43,Company,"Raleigh, North Carolina, USA",10001,large
+43,44,91,Esevo Tech,37,Company,"Zurich, Switzerland",51,small
+44,45,93,MercuryTechnologies,36,Company,"San Francisco, California, USA",11,small
+45,46,94,Silverfin,35,Company,"Ghent, Belgium",51,small
+46,47,95,upsert-oy,35,Company,"Helsinki, Finland",11,small
+47,48,96,shopware,35,Company,"Schöppingen, Germany",201,medium
+48,49,97,replit,33,Company,"San Francisco, California, USA",51,small
+49,50,99,canary-technologies-corp,32,Company,"San Francisco, California, USA",51,small
