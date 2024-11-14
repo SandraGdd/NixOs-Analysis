@@ -1,21 +1,30 @@
-## Nix Overview
+## Market Analysis: Nix Commercial Adoption
+
 Nix is an open-source package manager that employs a functional, declarative approach to software management. Nix provides precise control over software versions and dependencies, ensuring that configurations are reproducible and isolated from one another. This approach makes NixOS especially popular with developers and companies who prioritize stability, consistency, and easy rollbacks in complex or production environments.
-(Nix is the package manager that can be used across different environments, while NixOS is a Linux distribution that fully leverages the Nix package manager for managing the entire system configuration.) 
 
 ## Project Brief
-As Nix is still relatively unknown, Numtide—a company dedicated to developing tools and services for Nix—aims to analyze commit patterns in the NixOS nixpkgs repository. The goal is to assess whether companies are showing interest in Nix and if there is growth in that interest, helping Numtide determine if further investment in Nix is worthwhile.
-Link to respository: https://github.com/NixOS/nixpkgs
+Goal: Assessing trends in the commercial adoption of Nix over the past 12 months.
 
-Track Company Contributions: Identify the volume and frequency of commits made by companies and assess their company size.
-Observe Trends: Examine how these contributions have evolved over the last three years.
-Predict Future Trends: Based on historical data, forecast how corporate involvement might change in the future.
+Numtide.com, a software development agency, is considering an expansion of its service offerings around Nix, an open-source programming language. This analysis aims to provide insights into the evolving market landscape of Nix, informing Numtide's decision-making process.
 
-## Planned Approach
-- Collect Commit Data: Use the GitHub API to retrieve commit data from the last three years, including email, timestamps, and company information if available.
-- Build Data Structure: Organize data in a DataFrame for easy filtering and analysis (cleaning & wrangling)
-- Filter by Companies: Separate individual contributors from company contributors by identifying company email domains, anonymizing email addresses.
-- Analyze Company Size: Categorize contributing companies by size using publicly available information. (f.e. Linkedin Api, Dataset?)
-- Create Visualizations: Generate charts to illustrate contribution trends over time.
-(- Predict Future Trends: data patterns to estimate future company engagement.)
+## Objectives
+1. Identify measurable trends in commercial adoption of Nix
+2. Contextualize growth trends between commercial, private and institutional entities 
+3. Analyze the types, sizes, and geographical distribution of adopting companies
+
+
+## Methodology
+The key performance indicator (KPI) for this market analysis will be the number of commits made by companies to the NixOS repository (https://github.com/NixOS/nixpkgs). Numtide requested insights into "adoption", which is not a rigidly defined term, together we have established that a company contributing commits to the repository demonstrates a long-term interest in the technology, thus qualifying as an adopter.
+
+This approach allows us to:
+Quantify commercial engagement with Nix, Track adoption trends over time, Identify key players in the Nix ecosystem
+
+By analyzing these commits, we aim to provide Numtide with valuable insights to guide their strategic expansion into Nix-related services.
+
+Key findings are visualized via Tableau: https://public.tableau.com/views/VisualisationsFinal/NixAnalysis?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Link to presentation: https://docs.google.com/presentation/d/1ppfRcQBsH1EU2w7WGGPtywGcHDlQNTMERpVJqM300Yw/edit#slide=id.ge1d838b627_4_0
+
+
+
 
 
