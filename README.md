@@ -10,7 +10,7 @@ Numtide.com, a software development agency, is considering an expansion of its s
 ## Objectives
 1. Identify measurable trends in commercial adoption of Nix
 2. Contextualize growth trends between commercial, private and institutional entities 
-3. Analyze the types, sizes, and geographical distribution of adopting companies
+3. Analyze the types, sizes and geographical distribution of adopting companies
 
 
 ## Methodology
